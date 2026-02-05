@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ahmed Mamdouh 👋
+Frontend Developer
 
-<!--
-**A7medMamdo7/A7medMamdo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive and scalable web applications using React and modern frontend tools.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Material UI
+- React Query
+- Context API
+- Vite
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### WorldWise
+Travel tracking web application using React and interactive maps.
+https://github.com/A7medMamdo7/worldwise
+
+### Flatter App
+React application with modern state management and reusable components.
+
+### Al-Badwy Website
+Responsive corporate website built with React and Tailwind CSS.
+
+## Contact
+LinkedIn: https://linkedin.com/in/ahmedmamdouh311
+Email: amamdouh423@gmail.com
